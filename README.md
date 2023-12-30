@@ -3,7 +3,7 @@
 
 - I’m currently working on [an Image Editor made with python](https://github.com/AmanNiyad/Image_editor.git)
 
-- I’m currently learning focusing on **Software Development**
+- I’m currently focusing on **Software Development**
 
 - Contact me **amanniyad03@gmail.com**
 
