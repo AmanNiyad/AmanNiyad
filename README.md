@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Aman Niyad</h1>
 <h3 align="center">A student of KIIT University, India.</h3>
 
-- I’m currently working on [an Image Editor made with python](https://github.com/AmanNiyad/Image_editor.git)
+- I’m currently working on Medical Image Processing
 
-- I’m currently focusing on **Software Development**
+- I’m currently focusing on **Computer Vision**
 
 - Contact me **amanniyad03@gmail.com**
 
